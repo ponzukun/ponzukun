@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ponzukun/Yusuke Doi!!
+### Hi there 👋 I'm ponzukun/Yusuke Doi !!
 
 <p align="left"> 
   <a href="https://github.com/ponzukun/ponzukun/">
