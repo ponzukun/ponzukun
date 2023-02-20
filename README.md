@@ -14,4 +14,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ponzukun&theme=onedark&show_icons=ture" />
 </p>
 
-<a href="https://ponzukun.github.io/">ポートフォリオ（プロフィールサイト）</a>
+<a href="https://ponzukun.github.io/">経歴やスキルはこちら</a>
