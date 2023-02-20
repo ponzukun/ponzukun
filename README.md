@@ -4,9 +4,6 @@
   <a href="https://github.com/ponzukun/ponzukun/">
     <img src="https://komarev.com/ghpvc/?username=ponzukun" alt="ponzukun" />
   </a>
-  <a href="http://twitter.com/_ponzukun_">
-    <img height="20" src="https://img.shields.io/twitter/follow/_ponzukun_?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/ponzukun">
     <img height="20" src="https://img.shields.io/github/followers/ponzukun?label=follow&logo=github&style=flat" />
   </a>
