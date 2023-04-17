@@ -14,4 +14,5 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ponzukun&theme=onedark&show_icons=ture" />
 </p>
 
-<a href="https://ponzukun.github.io/">経歴やスキルはこちら</a>
+<p><a href="https://ponzukun.github.io/">profile in Japanese</a></p>
+<p><a href="https://www.linkedin.com/in/yusuke-doi-702455262/">profile in Linkedin (English)</a></p>
