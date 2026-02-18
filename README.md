@@ -9,10 +9,4 @@
   </a>
 </p>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponzukun&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ponzukun&theme=onedark&show_icons=ture" />
-</p>
-
-<p><a href="https://ponzukun.github.io/">profile in Japanese</a></p>
-<p><a href="https://www.linkedin.com/in/yusuke-doi-702455262/">profile in Linkedin (English)</a></p>
+<p><a href="https://www.linkedin.com/in/yusuke-doi-702455262/">Linkedin</a></p>
